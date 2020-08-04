@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[68],{324:function(n,t,e){"use strict";e.r(t),e.d(t,"ks_menu_row",(function(){return r}));var o=e(5),r=function(){function n(n){Object(o.i)(this,n)}return n.prototype.render=function(){return Object(o.g)(o.a,{class:"menu-row"},Object(o.g)("slot",null))},n}()}}]);

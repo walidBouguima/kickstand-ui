@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[69],{325:function(n,t,o){"use strict";o.r(t),o.d(t,"ks_modal_footer",(function(){return r}));var e=o(5),r=function(){function n(n){Object(e.i)(this,n)}return n.prototype.render=function(){return Object(e.g)(e.a,{class:"modal-footer"},Object(e.g)("slot",null))},n}()}}]);
